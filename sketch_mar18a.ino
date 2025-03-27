@@ -1,12 +1,3 @@
-
-
-Skip to content
-Using Gmail with screen readers
-Conversations
-728.83 GB of 2,048 GB used
-Terms · Privacy · Programme Policies
-Last account activity: 2 minutes ago
-Details
 #include <SoftwareSerial.h>
 #include <DFRobotDFPlayerMini.h>
 
